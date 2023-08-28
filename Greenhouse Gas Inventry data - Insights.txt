@@ -1,0 +1,15 @@
+The Greenhouse Gas (GHG) Inventory Data contains the most recently submitted information, covering the period from 1990 to the latest available year, to the extent the data have been provided. The GHG data contain information 
+on anthropogenic emissions by sources and removals by sinks of the following GHGs (carbon dioxide (CO2), methane (CH4), nitrous oxide (N2O), hydrofluorocarbons (HFCs), perfluorocarbons (PFCs), unspecified mix of HFCs and PFCs, sulphur hexafluoride (SF6) and nitrogen triflouride (NF3)) that are not controlled by the Montreal Protocol.
+
+GHG emission inventories are developed by Parties to the Convention using scientific and methodological guidance from the Intergovernmental Panel on Climate Change (IPCC), such as 2006 IPCC Guidelines for National Greenhouse 
+Gas Inventories, Revised Guidelines for National Greenhouse Gas Inventories (1996), IPCC Good Practice Guidance and Uncertainty Management in National Greenhouse Gas Inventories (2000) and IPCC Good Practice Guidance on Land Use, Land-use Change and Forestry (2003).
+Last update in UNdata: 23 Mar 2017 with data released in Nov 2016.
+
+INFERENCE:
+
+
+In gas Emission Category, CO2,GHCS and N2O emission are more compared to other gas.
+
+United State of America Emitted more Gas nearly (250) whereas Belarus release less Gas(145)
+
+Majority Gas Emitted in the year 2008,2009,2013 and 2014
